@@ -1,0 +1,19 @@
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Variáveis de Ambiente (MUITO IMPORTANTE)
+.env
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de dados baixados pela API
+*.json
+*.csv
+
+# Logs
+*.log
